@@ -1,0 +1,123 @@
+# Script de présentation — Maklat Lwalida
+# À lire à voix haute (≈ 6–8 minutes)
+
+---
+
+## Introduction (≈ 45 s)
+
+Assalamu alaikum, ahlan bikum.
+
+Je vous présente **Maklat Lwalida** — en darija, « les plats de maman ».
+
+C’est une application mobile qui relie des **femmes qui cuisinent depuis chez elles** aux **étudiants de l’Université Al Akhawayn à Ifrane**.
+
+L’idée est simple : manger authentique, marocain, fait maison — tout en protégeant la planète grâce à des **contenants réutilisables** et une **livraison en vélo électrique**.
+
+---
+
+## 1. Accueil — Découvrir les plats (≈ 1 min 30)
+
+Sur l’écran d’accueil, on retrouve d’abord l’identité de la marque : le logo, le nom **Maklat Lwalida**, et le clin d’œil au campus : *Ahlan · Ifrane · AUI*.
+
+En haut, une **barre de recherche** permet de trouver un plat ou une cuisinière.
+
+Juste en dessous, des **filtres d’allergies et de régimes** — Halal, végétarien, végan, sans gluten, sans lactose, sans noix, sans œufs. Ces filtres filtrent la liste en direct. Les préférences du profil s’appliquent automatiquement.
+
+Ensuite, la section **Nos cuisinières** : chaque femme a une spécialité claire —
+- Fatima : tajines traditionnels  
+- Aïcha : pastilla et pâtisserie de Fès  
+- Khadija : pain khobz et msemen  
+- Nouria : rfisa et plats de fête  
+
+Puis **Daily Delights** : les plats du jour, comme le Tajine Barkouk et le Tajine Sardines, avec photo et prix en MAD.
+
+**Timeless Traditions** : les grands classiques — Pastilla fruit de mer, Seffa, Rfisa — avec description et cuisinière.
+
+Et **Pain maison** : Khobz, Msemen, Batbout farci — parce que chez nous, le pain fait partie du repas.
+
+En bas, un bouton invite à **demander une assiette sur mesure** si aucun plat ne convient.
+
+En cliquant sur un plat, on ouvre le détail : allergènes, avis, note, et possibilité de commander ou d’ajouter la cuisinière aux favorites.
+
+---
+
+## 2. Demande personnalisée (≈ 45 s)
+
+Si un étudiant a une allergie ou un souhait particulier, il peut envoyer une **demande sur mesure** à une cuisinière précise.
+
+Il choisit la cuisinière, décrit le plat, ajoute ses notes d’allergies, et choisit une date.
+
+La cuisinière peut ensuite **accepter, refuser, ou proposer une alternative**.
+
+C’est le lien humain de Maklat Lwalida : on ne se contente pas d’un menu figé.
+
+---
+
+## 3. Contenants — Zéro plastique jetable (≈ 1 min 15)
+
+L’onglet **Contenants** montre l’engagement écologique.
+
+D’abord, le client choisit entre **deux designs** :
+1. **Bol verre isolé** — idéal pour les tajines et les sauces, avec motif zellige.  
+2. **Sac isotherme** — idéal pour le pain et les plateaux.
+
+Chaque étudiant a un **QR code** et un identifiant unique, liés à son compte, pour le suivi à la livraison et au retour.
+
+Le statut du contenant est clair : **chez l’étudiant** ou **retourné**.
+
+Enfin, une **caution bihebdomadaire** de 50 MAD, avec date d’échéance et bouton de paiement — pour encourager le retour des contenants.
+
+En bas, on rappelle la livraison **e-bike** sur le campus AUI : *fait maison, avec amour — pour toi, pour la planète*.
+
+---
+
+## 4. Impact — Voir son empreinte (≈ 1 min)
+
+L’onglet **Impact** rend visible le bien que l’on fait.
+
+Deux chiffres clés :
+- le nombre d’**emballages jetables évités**  
+- les **kilos de déchets sauvés**
+
+Puis un graphique simple : **livraison e-bike vs voiture**. Environ **90 % de CO₂ en moins** par kilomètre avec le vélo électrique.
+
+Ce n’est pas seulement une app de livraison : c’est un geste concret pour Ifrane et pour la planète.
+
+---
+
+## 5. Profil — Préférences et communauté (≈ 1 min)
+
+Dans le **Profil**, l’étudiant retrouve son identité — ici, Sara Amrani, étudiante AUI.
+
+Il gère ses **allergies et préférences** : chaque interrupteur met à jour les filtres de l’accueil.
+
+Il voit ses **cuisinières favorites**, et le **suivi de sa dernière commande** :
+préparation → récupération en e-bike → livraison.
+
+C’est la dimension communautaire : on suit son plat, on fidélise ses cuisinières, on mange en confiance.
+
+---
+
+## Navigation (≈ 20 s)
+
+En bas, quatre onglets :
+1. **Accueil** — menus et commandes  
+2. **Contenants** — emballages réutilisables  
+3. **Impact** — bilan écologique  
+4. **Profil** — préférences et favoris  
+
+Tout est pensé pour un usage mobile, simple et rapide, entre deux cours.
+
+---
+
+## Conclusion (≈ 40 s)
+
+En résumé, **Maklat Lwalida** c’est trois choses à la fois :
+
+1. **Patrimoine** — la cuisine marocaine des mamans, pour les étudiants d’AUI.  
+2. **Confiance** — allergies, avis, demandes personnalisées, suivi de commande.  
+3. **Planète** — contenants réutilisables, caution, livraison e-bike, impact mesurable.
+
+Des plats de maman, livrés avec fierté — et sans gâchis.
+
+Choukran. Bssaha w raha.
